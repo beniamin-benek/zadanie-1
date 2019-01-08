@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Uczę" + "\n" + "się" + "\n" + "programowania" + "\n" + "i" + "\n" + "commitowania");
 
         int number;
+        number = 1;
     }
 }
