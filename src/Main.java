@@ -5,5 +5,10 @@ public class Main {
 
         int number;
         number = 1;
+
+        if (number == 1) {
+            number++;
+            System.out.println("Wartość zmiennej: " + number + ".");
+        }
     }
 }
